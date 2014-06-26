@@ -19,7 +19,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	-->
   </head>
-  
   <body>
   <center>
     <h3><a href="<%=basePath%>background/index.html">进入后台</a></h3></center>
